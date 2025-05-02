@@ -1,3 +1,12 @@
+title: Kyona's Poetry Archive
+description: A collection of mythic, personal, and transformative poems.
+baseurl: "" # leave this empty unless your site is in a subfolder
+url: "https://argo-code.github.io/Kyona/" 
 remote_theme: knhash/jekyllBear
+
 plugins:
   - jekyll-remote-theme
+
+markdown: kramdown
+kramdown:
+  input: GFM
