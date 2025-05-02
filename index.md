@@ -2,7 +2,14 @@
 layout: home
 title: "Kyona's Poetry Collection"
 ---
+---
+layout: home
+title: "Kyona's Poetry Archive"
+---
 
-Welcome to my collection of poems!
+Welcome to my mythic little corner of the web.  
+Explore poems about memory, gender, transformation, and the fire in-between.
 
-Browse by theme, or explore the most recent pieces below.
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) — *{{ post.date | date: "%B %d, %Y" }}*
+{% endfor %}
