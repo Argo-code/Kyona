@@ -1,2 +1,3 @@
-# Kyona
-Poetry
+remote_theme: knhash/jekyllBear
+plugins:
+  - jekyll-remote-theme
