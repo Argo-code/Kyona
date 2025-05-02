@@ -1,0 +1,7 @@
+Free:
+
+“To be free is to be a God,
+to be a God is to know,
+to know is to feel,
+to feel is to live.” 
+Quoted from the [[Daemon]] on my shoulder.

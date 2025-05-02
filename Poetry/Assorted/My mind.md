@@ -1,0 +1,14 @@
+A strange sight
+A working motor
+a shifting bike
+a hinge with no squeaks
+
+what madness--
+what an impossibility
+
+my mind-- 
+working...
+as intended?
+
+a victory
+a mystical event

@@ -1,0 +1,15 @@
+Blazing flames,
+Flashing lights, 
+A quaking floor, 
+ A screaming crowd. 
+
+surrounded and enclosed,
+yet so utterly alone
+booming noise,
+but so quiet inside.
+
+isolated--
+I stand alone
+in silence, 
+among the roaring beat. 
+

@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "4ef83e9b5a9c26d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e8955d1b3154781",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff8f3764e4543471",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cea01abeb51a2d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b4e23b6a57fc906",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21755033ee459ecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1f21370d8334290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d73622cecc90018",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e514d302906ec13f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba405ff36c3c8065",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1780811cd9825ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "56059a1680d2c418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98997cf31daca0e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e7991c8a752bdcc4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f10eb6ba084aa3f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d126a90ca898879a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9d73622cecc90018",
+  "lastOpenFiles": [
+    "README.md",
+    "_config.yml",
+    "Kyona/_config.yml",
+    "Kyona/README.md",
+    "Kyona",
+    "Welcome.md",
+    "Poetry/Masks/The First Mask.md",
+    "Poetry/Masks/Puzzles.md",
+    "Poetry/Masks/Praise.md",
+    "Poetry/Masks/Meeting God.md",
+    "Poetry/Masks/Masks, Mirrors, And the God Inbetween.md",
+    "Poetry/Masks/Freely Chained.md",
+    "Poetry/Masks/Between the frames.md",
+    "Poetry/Masks/Becoming.md",
+    "Poetry/Masks/A Shard of the Whole.md",
+    "Poetry/Masks/1. Fracturing.md",
+    "Poetry/Masks/0. Death of the Mask.md",
+    "Poetry/Liminal/Subway.md",
+    "Poetry/Liminal/Solitude.md",
+    "Poetry/Liminal/Lost phone.md",
+    "Poetry/Liminal/Liminal.md",
+    "Poetry/Liminal/Haze.md",
+    "Poetry/Liminal/A Thought Exercise.md",
+    "Poetry/God/On Love.md",
+    "Poetry/God/On Hope.md",
+    "Poetry/God/On Faith.md",
+    "Poetry/God/On Faith, On Love, And On Hope.md",
+    "Poetry/God/Lord.md",
+    "Poetry/God/God Stuck in Traffic.md",
+    "Poetry/Masks",
+    "Poetry/Liminal",
+    "Poetry/God",
+    "Poetry/Dreams",
+    "Poetry/Disquiet Poems",
+    "Poetry/Disorders",
+    "Poetry/Cleaned"
+  ]
+}

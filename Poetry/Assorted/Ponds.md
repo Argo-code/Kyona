@@ -1,0 +1,13 @@
+Ponds:
+My soul is not a pond.  
+It is not still.  
+It is not content.  
+It does not reflect the sky.
+
+It is a tide.
+
+It crashes, breaks, reforms, recedes—  
+forever drawn by moons it cannot name.
+
+I envy those who have found peace in their spirit.  
+I am not one of them.

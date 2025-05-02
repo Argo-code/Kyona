@@ -1,0 +1,20 @@
+Subway:
+The subway car shaking, 
+
+Trembling, running--
+
+As if from something.
+
+Dim, at the dawn of twilight, 
+
+I watch the street lamps
+
+Meander by.
+
+With a glimpse of my eye
+
+The reflection shifts,
+
+Unbeknownst to I
+
+A creature of twilight.
